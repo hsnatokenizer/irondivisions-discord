@@ -13,7 +13,7 @@ initial_extensions = ['cogs.util']
                      # 'cogs.tour',
                      # 'cogs.mod']
 
-token = "Nzc5MjU3NzI4MTg2OTc0MjM5.X7d6UA.aD5MLV3zG4H8XU7ucxCTdHbi2-w"
+token = "UH OH"
 
 client = commands.Bot(command_prefix=">", case_insensitive=True)
 
